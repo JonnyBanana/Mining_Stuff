@@ -6,7 +6,7 @@
   
  
 
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/Cryptojacking/Banana_Coinhive_Silent_Cryptojacker.png)
 
 
 </BR>
