@@ -1,0 +1,61 @@
+###HARDWARE WALLET###
+
+TREZOR
+https://trezor.io/
+
+LEDGER
+https://www.ledger.com/
+
+SAFEPAL
+https://www.safepal.io/
+
+BITBOX
+https://shiftcrypto.ch/bitbox02/
+
+COLDCARD
+https://coldcardwallet.com/
+
+OPENDIME
+https://opendime.com/
+
+FIREFLY
+https://firefly.city/
+
+
+###SEED PHRASE PROTECTOR###
+
+SEEDPLATE
+https://bitcoinseedbackup.com/
+
+STEELWALLET
+https://www.blockark.de/steelwallet/
+
+BLOCKPLATE
+https://www.blockplate.com/
+
+CRYPTOTAG
+https://cryptotag.io/
+
+COLT Ti
+https://coldti.com/
+
+
+###INTERESTING STUFF###
+
+TREZOR VS LEDGER REVIEW
+https://medium.com/coinmonks/ledger-vs-trezor-best-hardware-wallet-to-secure-cryptocurrency-22c7a3fd391e
+
+SHAMIR BACKUP
+https://wiki.trezor.io/Shamir_Backup
+
+ARE CRYPTO HRADWARE REALLY SAFE?
+https://cryptofeedz.com/2018/09/13/are-crypto-hardware-wallets-really-safe/
+
+BREAKING TREZOR ONE WITH SIDE CHANNELS ATTACKS
+https://donjon.ledger.com/Breaking-Trezor-One-with-SCA/
+
+
+
+
+
+
