@@ -17,8 +17,5 @@ and also a sample repo of mine explaining how to take advantage of services like
   
 <BR>
   
-You cand also find the example here:
-
-<BR>
-  
+You cand also find the example here:<BR>  
 https://github.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io
