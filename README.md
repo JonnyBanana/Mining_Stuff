@@ -14,3 +14,8 @@ Just a repo that contains a lot of my stuff (miner, config., pools, etc.) , <BR>
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/Antminer_S3/S3.jpg)
 
 </BR>
+
+
+Repo created: 04/18/2021
+</BR>
+Last update: 
