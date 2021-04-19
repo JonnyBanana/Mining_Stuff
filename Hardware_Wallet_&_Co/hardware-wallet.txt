@@ -55,6 +55,10 @@ BREAKING TREZOR ONE WITH SIDE CHANNELS ATTACKS
 https://donjon.ledger.com/Breaking-Trezor-One-with-SCA/
 
 
+###PAPER WALLET###
+https://www.bitaddress.org
+
+
 
 
 
