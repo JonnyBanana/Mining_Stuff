@@ -1,0 +1,8 @@
+An updated list of working services to be exploited for cryptojacking purposes
+
+WEBMINEPOOL
+https://webminepool.com/
+
+CRYPTOLOOT
+https://crypto-loot.org/
+
