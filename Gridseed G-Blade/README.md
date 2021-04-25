@@ -4,7 +4,7 @@ Setup Guide, Drivers, and Mining Programs for Gridseed G-Blade.<BR> Also contain
   
  
 
-![Alt text](https://github.com/JonnyBanana/Mining_Stuff/blob/main/Stickers/sticker.jpg)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/Gridseed%20G-Blade/gs.jpg)
 
 </BR>
   
