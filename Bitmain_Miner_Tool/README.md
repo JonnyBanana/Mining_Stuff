@@ -1,4 +1,4 @@
-Bitmain Miner Tool a.k.a. 
+Bitmain Miner Tool
 
 <BR>
   
