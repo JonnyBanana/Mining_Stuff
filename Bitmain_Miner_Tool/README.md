@@ -1,4 +1,4 @@
-Bitmain Miner Tool
+Bitmain Miner Tool a.k.a. 
 
 <BR>
   
@@ -8,3 +8,5 @@ Bitmain Miner Tool
 https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/Bitmain_Miner_Tool/Bitmain_Miner_Tool.jpg)
 
 </BR>
+
+https://shop.bitmain.com/support/download?product=Antminer%20Toolkit
