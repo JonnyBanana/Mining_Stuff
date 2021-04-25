@@ -1,1 +1,1 @@
-A collection of the best CPU Miners for Windows & Linux
+A collection of the best FPGA Miners for Windows & Linux
