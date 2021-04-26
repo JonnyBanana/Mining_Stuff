@@ -16,6 +16,12 @@ Just a repo that contains a lot of my stuff (miner, config., pools, photos, prog
 </BR>
 
 
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/IMG/m-os.jpg)
+
+</BR>
+
+
 Repo created: 04/18/2021
 </BR>
 Last update: 
