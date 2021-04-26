@@ -16,7 +16,7 @@ Just a repo that contains a lot of my stuff (miner, config., pools, photos, prog
 </BR>
 
 
-![Alt text]https://gph.is/g/ZygmKpb)
+![Alt text](https://github.com/JonnyBanana/Mining_Stuff/blob/main/IMG/mos.gif)
 </BR>
 
 
