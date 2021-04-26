@@ -89,3 +89,10 @@ A Photogallery of My Mining Sessions
 
 </BR>
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/IMG/moon2.jpg)
+
+</BR>
+
+
+
+
