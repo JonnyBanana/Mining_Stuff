@@ -1,4 +1,4 @@
-Setup Guide for Block Erupter USB ASIS Miner
+Setup Guide for Block Erupter USB ASIC Miner
 
 
 <BR>
