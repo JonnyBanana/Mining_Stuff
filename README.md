@@ -24,4 +24,4 @@ Just a repo that contains a lot of my stuff (miner, config., pools, photos, prog
 
 Repo created: 04/18/2021
 </BR>
-Last update: 
+Last update: 04/26/2021
