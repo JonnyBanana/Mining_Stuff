@@ -16,9 +16,7 @@ Just a repo that contains a lot of my stuff (miner, config., pools, photos, prog
 </BR>
 
 
-
-<img src="https://giphy.com/embed/NsvULiQk1K7dlERpf9" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><a href="https://giphy.com/gifs/NsvULiQk1K7dlERpf9"></a>
-
+![Alt text](https://media.giphy.com/media/NsvULiQk1K7dlERpf9/source.gif)
 </BR>
 
 
