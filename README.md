@@ -17,7 +17,7 @@ Just a repo that contains a lot of my stuff (miner, config., pools, photos, prog
 
 
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Mining_Stuff/main/IMG/m-os.jpg)
+![Alt text](https://media.giphy.com/media/NsvULiQk1K7dlERpf9/giphy.gif)
 
 </BR>
 
