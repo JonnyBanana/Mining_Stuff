@@ -1,0 +1,18 @@
+Bitmain Antminer S7
+Model 	‎AMS7473
+Dimensioni prodotto 	‎30.1 x 15.49 x 12.29 cm; 3.4 Kg
+Numero modello articolo 	‎AMS7473
+RAM 	‎512 MB
+Memory Type 	‎DDR3 SDRAM
+Core	‎1
+Voltage	‎12 Volt
+Watt 	‎1210.00
+Weight 	‎3.4 kg 
+Hash Rate: 4.73 TH/s ±5%
+Power Consumption: 1293W ±10%
+Power Supply required and sold seperately
+Requires 10x 6 pin pci-e connectors 
+
+
+
+
